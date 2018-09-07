@@ -1,0 +1,13 @@
+beautifulsoup4==4.6.3
+certifi==2018.8.24
+chardet==3.0.4
+idna==2.7
+InvestopediaApi==1.1
+lxml==4.2.4
+MechanicalSoup==0.10.0
+python-anticaptcha==0.3.1
+requests==2.19.1
+six==1.11.0
+urllib3==1.23
+virtualenv==16.0.0
+xxx==0.0.4
