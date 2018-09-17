@@ -1,7 +1,10 @@
+from time import sleep
+
+
 def main():
     while True:
-        print "This is it!"
-    sleep(2)
+        print "Ping"
+        sleep(2)
 
 
 if __name__ == '__main__':
